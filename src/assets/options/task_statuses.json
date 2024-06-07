@@ -1,0 +1,18 @@
+[
+    {
+        "value": "Assigned",
+        "lable": "Assigned"
+    },
+    {
+        "value": "In-Progress",
+        "lable": "In-Progress"
+    },
+    {
+        "value": "Under Review",
+        "lable": "Under Review"
+    },
+    {
+        "value": "Completed",
+        "lable": "Completed"
+    }
+]

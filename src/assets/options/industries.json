@@ -1,0 +1,793 @@
+[
+    {
+        "industry": "Auto and Allied",
+        "sub_category": [
+            {
+                "name": "Automobile assemblers \/ Manufacturers"
+            },
+            {
+                "name": "Automobile parts."
+            },
+            {
+                "name": "Automobile accessories."
+            },
+            {
+                "name": "Auto and Allied – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Broadcasting and Telecasting",
+        "sub_category": [
+            {
+                "name": "Television channels"
+            },
+            {
+                "name": "Radio Broadcasting."
+            },
+            {
+                "name": "Cable operators."
+            },
+            {
+                "name": "Broadcasting and telecasting -Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Cable and Electric goods",
+        "sub_category": [
+            {
+                "name": "Electrical goods"
+            },
+            {
+                "name": "Cables"
+            },
+            {
+                "name": "Cables and electric goods – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Carpets and Rugs",
+        "sub_category": [
+            {
+                "name": "Carpets and Rugs"
+            }
+        ]
+    },
+    {
+        "industry": "Cement",
+        "sub_category": [
+            {
+                "name": "Cement"
+            }
+        ]
+    },
+    {
+        "industry": "Chemical",
+        "sub_category": [
+            {
+                "name": "Chemical"
+            },
+            {
+                "name": "Fertilizer."
+            },
+            {
+                "name": "Chemical – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Pharmaceutical",
+        "sub_category": [
+            {
+                "name": "Pharmaceutical"
+            },
+            {
+                "name": "Pharmaceutical – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Construction",
+        "sub_category": [
+            {
+                "name": "Construction"
+            },
+            {
+                "name": "Building material."
+            },
+            {
+                "name": "Construction – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Corporate agricultural farming",
+        "sub_category": [
+            {
+                "name": "Agricultural farming."
+            },
+            {
+                "name": "Fish farming."
+            },
+            {
+                "name": "Livestock farming."
+            },
+            {
+                "name": "Poultry."
+            },
+            {
+                "name": "Seed processing."
+            },
+            {
+                "name": "Corporate agricultural farming – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Education",
+        "sub_category": [
+            {
+                "name": "Educational institution"
+            },
+            {
+                "name": "Research and development"
+            },
+            {
+                "name": "Education – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Engineering",
+        "sub_category": [
+            {
+                "name": "Engineering"
+            }
+        ]
+    },
+    {
+        "industry": "Food and beverages",
+        "sub_category": [
+            {
+                "name": "beverages"
+            },
+            {
+                "name": "Food"
+            },
+            {
+                "name": "Food and beverages – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Footwear",
+        "sub_category": [
+            {
+                "name": "Footwear"
+            }
+        ]
+    },
+    {
+        "industry": "Fuel and energy",
+        "sub_category": [
+            {
+                "name": "Oil and gas marketing."
+            },
+            {
+                "name": "Oil and gas exploration."
+            },
+            {
+                "name": "Oil refinery"
+            },
+            {
+                "name": "Fuel and energy – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Ginning",
+        "sub_category": [
+            {
+                "name": "Cotton Ginning"
+            },
+            {
+                "name": "Pressing"
+            }
+        ]
+    },
+    {
+        "industry": "Glass and Ceramics",
+        "sub_category": [
+            {
+                "name": "Ceramics"
+            },
+            {
+                "name": "Glass"
+            },
+            {
+                "name": "Glass and Ceramics – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Healthcare",
+        "sub_category": [
+            {
+                "name": "Hospitals\/Clinics"
+            },
+            {
+                "name": "Diagnostic laboratories"
+            },
+            {
+                "name": "Fitness centers\/Clubs"
+            },
+            {
+                "name": "Healthcare – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Information Technology",
+        "sub_category": [
+            {
+                "name": "Software development."
+            },
+            {
+                "name": "Hardware."
+            },
+            {
+                "name": "Call Centers"
+            },
+            {
+                "name": "Information Technology – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Insurance",
+        "sub_category": [
+            {
+                "name": "Insurance companies (non-life\/general)."
+            },
+            {
+                "name": "Life Insurance"
+            },
+            {
+                "name": "Insurance surveyors."
+            },
+            {
+                "name": "Reinsurance companies"
+            },
+            {
+                "name": "Takaful."
+            },
+            {
+                "name": "Insurance – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Jute",
+        "sub_category": [
+            {
+                "name": "Jute"
+            }
+        ]
+    },
+    {
+        "industry": "Leather and tanneries",
+        "sub_category": [
+            {
+                "name": "Leather goods and products"
+            },
+            {
+                "name": "Tanneries."
+            },
+            {
+                "name": "Leather and tanneries – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Lodging",
+        "sub_category": [
+            {
+                "name": "Hotels"
+            },
+            {
+                "name": "Restaurants."
+            },
+            {
+                "name": "Lodging – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Mining and quarrying",
+        "sub_category": [
+            {
+                "name": "Marble"
+            },
+            {
+                "name": "Mineral."
+            },
+            {
+                "name": " Mining and quarrying – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Paper and Board",
+        "sub_category": [
+            {
+                "name": "Printing and publishing"
+            },
+            {
+                "name": "Paper and Board – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Power generation",
+        "sub_category": [
+            {
+                "name": "coal"
+            },
+            {
+                "name": "Hydel"
+            },
+            {
+                "name": "Thermal."
+            },
+            {
+                "name": "Alternate energy"
+            },
+            {
+                "name": "Power generation – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Real estate development",
+        "sub_category": [
+            {
+                "name": "Real estate developers."
+            },
+            {
+                "name": "Real estate marketing."
+            },
+            {
+                "name": "Real estate development – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Steel and Allied",
+        "sub_category": [
+            {
+                "name": "Steel and Allied"
+            }
+        ]
+    },
+    {
+        "industry": "Sugar and Allied",
+        "sub_category": [
+            {
+                "name": "Sugar and Allied"
+            }
+        ]
+    },
+    {
+        "industry": "Synthetic and rayon",
+        "sub_category": [
+            {
+                "name": "Synthetic and rayon"
+            }
+        ]
+    },
+    {
+        "industry": "Textile",
+        "sub_category": [
+            {
+                "name": "Garments"
+            },
+            {
+                "name": "Textile composite"
+            },
+            {
+                "name": "Textile spinning"
+            },
+            {
+                "name": "Textile weaving"
+            },
+            {
+                "name": "Woolen Textile"
+            },
+            {
+                "name": "Textile – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Tobacco",
+        "sub_category": [
+            {
+                "name": "Tobacco"
+            }
+        ]
+    },
+    {
+        "industry": "Tourism",
+        "sub_category": [
+            {
+                "name": "Tourism"
+            },
+            {
+                "name": "Hajj and Umrah services"
+            }
+        ]
+    },
+    {
+        "industry": "Trading",
+        "sub_category": [
+            {
+                "name": "Import \/ Export"
+            },
+            {
+                "name": "Wholesale \/ retail"
+            },
+            {
+                "name": "Trading – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Transport",
+        "sub_category": [
+            {
+                "name": "Airlines"
+            },
+            {
+                "name": "Railways"
+            },
+            {
+                "name": "Road runners"
+            },
+            {
+                "name": "Shipping."
+            },
+            {
+                "name": "Transport – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Vanaspati and Allied",
+        "sub_category": [
+            {
+                "name": "Vegetable ghee."
+            },
+            {
+                "name": "Cooking oil."
+            },
+            {
+                "name": "Vanaspati and Allied – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Wood and wood products",
+        "sub_category": [
+            {
+                "name": "Furniture."
+            },
+            {
+                "name": "Wood and wood products – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Miscellaneous",
+        "sub_category": [
+            {
+                "name": "Miscellaneous"
+            }
+        ]
+    },
+    {
+        "industry": "Marketing and advertisement",
+        "sub_category": [
+            {
+                "name": "Marketing and advertisement"
+            }
+        ]
+    },
+    {
+        "industry": "Cosmetics and Toiletries",
+        "sub_category": [
+            {
+                "name": "Cosmetics and Toiletries"
+            }
+        ]
+    },
+    {
+        "industry": "Arts and culture",
+        "sub_category": [
+            {
+                "name": "Arts and culture"
+            }
+        ]
+    },
+    {
+        "industry": "Courier and services",
+        "sub_category": [
+            {
+                "name": "Courier and services"
+            }
+        ]
+    },
+    {
+        "industry": "Services",
+        "sub_category": [
+            {
+                "name": "Consultancy Services"
+            },
+            {
+                "name": "Security Services"
+            },
+            {
+                "name": "Services – Allied (other)"
+            },
+            {
+                "name": "Human resource Services"
+            }
+        ]
+    },
+    {
+        "industry": "Section 42 ",
+        "sub_category": [
+            {
+                "name": "Advocacy, research and public policy."
+            },
+            {
+                "name": "Agriculture, livestock and fish farming"
+            },
+            {
+                "name": "Animal rights."
+            },
+            {
+                "name": "Arts, culture and humanities."
+            },
+            {
+                "name": "Charity."
+            },
+            {
+                "name": "Religion."
+            },
+            {
+                "name": "Commerce."
+            },
+            {
+                "name": "Community development."
+            },
+            {
+                "name": "Disaster response programme"
+            },
+            {
+                "name": "Education – Allied (other) – NPO"
+            },
+            {
+                "name": "Educational institutions."
+            },
+            {
+                "name": "Employees housing foundation"
+            },
+            {
+                "name": "Energy conservation."
+            },
+            {
+                "name": "Environmental protection."
+            },
+            {
+                "name": "Fitness centers\/clubs – NPO"
+            },
+            {
+                "name": "Good governance"
+            },
+            {
+                "name": "Health and education"
+            },
+            {
+                "name": "Healthcare."
+            },
+            {
+                "name": "Hospitals\/clinics – NPO"
+            },
+            {
+                "name": "Human rights."
+            },
+            {
+                "name": "Information and communication technologies."
+            },
+            {
+                "name": "Infrastructure development."
+            },
+            {
+                "name": "Local support organization."
+            },
+            {
+                "name": "Media and Communication"
+            },
+            {
+                "name": "Microfinance services."
+            },
+            {
+                "name": "Orphanage."
+            },
+            {
+                "name": "Other useful objects"
+            },
+            {
+                "name": "Provision of food and shelter services"
+            },
+            {
+                "name": "Rehabilitation services."
+            },
+            {
+                "name": "Religion."
+            },
+            {
+                "name": "Research and development."
+            },
+            {
+                "name": "Rural support programme."
+            },
+            {
+                "name": "Science and technology"
+            },
+            {
+                "name": "Social welfare."
+            },
+            {
+                "name": "Sports and Tourism."
+            },
+            {
+                "name": "Vocational training"
+            },
+            {
+                "name": "Water, sanitation, and hygiene"
+            },
+            {
+                "name": "Women empowerment."
+            },
+            {
+                "name": "Youth development"
+            },
+            {
+                "name": "Sports goods"
+            }
+        ]
+    },
+    {
+        "industry": "Communications",
+        "sub_category": [
+            {
+                "name": "Internet service provider"
+            },
+            {
+                "name": "Telecommunications"
+            },
+            {
+                "name": "Pay phone companies."
+            },
+            {
+                "name": "Mobile phone and accessories."
+            },
+            {
+                "name": "Communications – Allied (other)"
+            }
+        ]
+    },
+    {
+        "industry": "Sports",
+        "sub_category": [
+            {
+                "name": "Sports goods"
+            },
+            {
+                "name": "Sports and Allied"
+            }
+        ]
+    },
+    {
+        "industry": "E-commerce",
+        "sub_category": [
+            {
+                "name": "E-commerce companies"
+            }
+        ]
+    },
+    {
+        "industry": "Parlor and other related services",
+        "sub_category": [
+            {
+                "name": "Parlor and other related services"
+            }
+        ]
+    },
+    {
+        "industry": "Special purpose acquisition company (SPAC)",
+        "sub_category": [
+            {
+                "name": "Special purpose acquisition company."
+            }
+        ]
+    },
+    {
+        "industry": "Finance and Banking",
+        "sub_category": [
+            {
+                "name": "Asset management companies."
+            },
+            {
+                "name": "Brokerage houses"
+            },
+            {
+                "name": "Commercial banks."
+            },
+            {
+                "name": "Housing finance Companies"
+            },
+            {
+                "name": "Investment advisory services."
+            },
+            {
+                "name": "Investment banks."
+            },
+            {
+                "name": "Investment companies."
+            },
+            {
+                "name": "Leasing companies."
+            },
+            {
+                "name": "Modarabas management companies."
+            },
+            {
+                "name": "Mutual funds."
+            },
+            {
+                "name": "Venture capital."
+            },
+            {
+                "name": "Money exchange companies."
+            },
+            {
+                "name": "Finance and banking – Allied (other)"
+            },
+            {
+                "name": "Discounting services"
+            },
+            {
+                "name": "REIT management services\/ REIT management company."
+            },
+            {
+                "name": "Non-bank microfinance company"
+            },
+            {
+                "name": "Electronic money institution (EMI)"
+            },
+            {
+                "name": "Securities advisor and future advisor."
+            },
+            {
+                "name": "Corporate restructuring companies"
+            },
+            {
+                "name": "PSOs &amp; PSPs"
+            }
+        ]
+    }
+]
